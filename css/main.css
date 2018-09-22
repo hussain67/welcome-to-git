@@ -25,6 +25,9 @@ img {
 h1 {
   font-weight: normal;
   margin-bottom: .5em;
+  
+}
+h2 {
   color:blue;
 }
 
